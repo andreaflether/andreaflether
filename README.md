@@ -30,6 +30,6 @@ I am a Technologist in Software Analysis and Development with experience in work
   
 ### 📫 Reach me at 
   
-<a href="https://www.linkedin.com/in/andreaflether" target="_blank">
+<a href="https://www.linkedin.com/in/andrea-alencar" target="_blank">
   <img align="center"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
 </a>
