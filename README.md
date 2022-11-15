@@ -1,12 +1,3 @@
-# Hi! 👋
-### I'm Andrea.
-
-I am a Technologist in Software Analysis and Development with experience in working as Full stack developer using Ruby on Rails 👨‍💻. Passionate about learning and working with new tech.
-
-- 💻  I’m currently working full-time as an Full Stack Developer at Wipro.
-- 🔭  I mainly code in Ruby on Rails, but I am familiar with Next.js and ReactJS.
-- ⚡  Available for Freelance projects.
-
 ### 📈 GitHub Stats
 <div>
   <a href="https://github.com/andreaflether">
@@ -31,9 +22,3 @@ I am a Technologist in Software Analysis and Development with experience in work
   <img alt="postgresql" height="30" width="40" title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img alt="oracle" height="30" width="40" title="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
-  
-### 📫 Reach me at 
-  
-<a href="https://www.linkedin.com/in/andrea-alencar" target="_blank">
-  <img align="center"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
-</a>
